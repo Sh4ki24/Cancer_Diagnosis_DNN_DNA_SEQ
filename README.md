@@ -3,7 +3,6 @@ DNA sequence classification with CNN
 
 Hi 
 
-
 My name is shakila and its my very first code in Bioinformatic and DNN 
 I know im not "professional" but just wanted to share for those who welcome new ideas
 
